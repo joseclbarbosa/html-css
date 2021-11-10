@@ -1,0 +1,21 @@
+* {
+   font-family: Arial, Helvetica, sans-serif; 
+}
+p{text-align: justify;}
+main
+{
+    
+    background-color: white;
+    width: 1000px;
+    padding: 70px ;
+    margin: auto;
+    border-radius: 15px;
+    
+}
+body{background-color: #E4D7FF;}
+
+h1{
+    text-align: center;
+    color: #4C269A;
+}
+h2{color: #191C32;}
